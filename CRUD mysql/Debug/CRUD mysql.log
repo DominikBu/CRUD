@@ -1,0 +1,6 @@
+﻿  CRUD mysql.cpp
+C:\Program Files\MySQL\MySQL Connector C++ 1.1.13\include\cppconn\exception.h(78,30): warning C4251: "sql::SQLException::sql_state": class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" wymaga posiadania użycia interfejsu biblioteki dll przez klientów class "sql::SQLException"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : zobacz deklarację „std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+C:\Program Files\MySQL\MySQL Connector C++ 1.1.13\include\cppconn\exception.h(162,27): warning C4251: "sql::SQLUnsupportedOptionException::option": class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" wymaga posiadania użycia interfejsu biblioteki dll przez klientów struct "sql::SQLUnsupportedOptionException"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : zobacz deklarację „std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+C:\Program Files\MySQL\MySQL Connector C++ 1.1.13\include\mysql_connection.h(37,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'boost/shared_ptr.hpp': No such file or directory

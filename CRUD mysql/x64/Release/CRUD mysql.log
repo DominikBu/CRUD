@@ -1,0 +1,11 @@
+﻿  CRUD mysql.cpp
+C:\Users\Dodo\source\repos\CRUD mysql\CRUD mysql\CRUD mysql.cpp(92,15): warning C4101: "row": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dodo\source\repos\CRUD mysql\CRUD mysql\CRUD mysql.cpp(165,20): warning C4244: "inicjowanie": konwersja z "uint64_t" do "int", możliwa utrata danych
+C:\Users\Dodo\source\repos\CRUD mysql\CRUD mysql\CRUD mysql.cpp(236,20): warning C4244: "inicjowanie": konwersja z "uint64_t" do "int", możliwa utrata danych
+C:\Users\Dodo\source\repos\CRUD mysql\CRUD mysql\CRUD mysql.cpp(335,20): warning C4244: "inicjowanie": konwersja z "uint64_t" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  6 of 139 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  CRUD mysql.vcxproj -> C:\Users\Dodo\source\repos\CRUD mysql\x64\Release\CRUD mysql.exe
